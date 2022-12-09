@@ -39,5 +39,5 @@ const showCart = () => { //creamos uan funcion para mostrarlo en la web (funcion
 
     });
     
-    carrito.appendChild(fragment); //subimos el fragment al DOM
+    cart.appendChild(fragment); //subimos el fragment al DOM
 };
